@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tabula-Rassa"
+title: "Tabula-Rasa"
 date: 2018-05-27
 ---
 
